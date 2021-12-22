@@ -40,7 +40,5 @@ sequenceDiagrams:
 
 ---
 
-<!--more-->
-
 ![](/img/wechat.png)
 
