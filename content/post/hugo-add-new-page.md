@@ -40,8 +40,6 @@ sequenceDiagrams:
 
 ---
 
-<!--more-->
-
 ## 前言
 
 Hugo默认在博客首页右上角有4个页面，分别是Home, Archives, Tags和Categories。
