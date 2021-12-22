@@ -101,7 +101,7 @@ Hugo目前GitHub上star最多，我关注的几个技术博主基本都选用的
    $ cp themes/even/exampleSite/config.toml ./
    ```
 
-3. 根据个人需要，修改blog/config.toml里的配置项，比如网站首页title，右上角菜单名称，底部链接名称等。
+3. 根据个人需要，修改blog/config.toml里的配置项，比如网站首页title，右上角菜单名称，底部链接名称等，可以参考[我的配置](https://github.com/jincheng9/blog)。
 
    **注意**：highlightInClient配置项和pygments开头的配置项不能都启用，都启用会导致markdown里插入代码块的时候样式错误。highlightInClient使用默认的false即可，不用修改。
 
@@ -111,7 +111,7 @@ Hugo目前GitHub上star最多，我关注的几个技术博主基本都选用的
    cp themes/even/archetypes/default.md ./archetypes/
    ```
 
-   修改`archetypes/default.md`里的默认配置项，把comment和toc都设置为true，用于开启文章评论功能和文章自动生成目录功能。
+   修改`archetypes/default.md`里的默认配置项，把comment和toc都设置为true，用于开启文章评论功能和文章自动生成目录功能，可以参考[我的配置](https://github.com/jincheng9/blog)。
 
 5. 启动本地Hugo server，查看博客效果，本地地址：http://localhost:1313/
 
