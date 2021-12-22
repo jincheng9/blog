@@ -198,7 +198,7 @@ Hugo目前GitHub上star最多，我关注的几个技术博主基本都选用的
 ## References
 
 * https://github.com/olOwOlo/hugo-theme-even
-
 * https://jdhao.github.io/2021/08/15/hugo_even_add_utterance/
 
-  
+![](/img/wechat.png)
+
