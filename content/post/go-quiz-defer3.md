@@ -132,7 +132,7 @@ Go的规定是：如果在函数A里执行了 defer B(xx)，函数A显示地通�
 
 题目1：[Go Quiz: 从Go面试题看defer语义的底层原理和注意事项](https://mp.weixin.qq.com/s?__biz=Mzg2MTcwNjc1Mg==&mid=2247483756&idx=1&sn=d536fa3340e1d5f91d72eaa8b67c8123&chksm=ce124e03f965c715e26f5943948e17d8e0ebb3c4a3a180a149219a610f83fc6eb77b3b166b6a&token=531427802&lang=zh_CN#rd)
 
-题目2：[Go Quiz: 从Go面试题看defer的注意事项第2篇](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzg2MTcwNjc1Mg%3D%3D%26mid%3D2247483762%26idx%3D1%26sn%3Dca4235d28d513267aa082dc12cb37fda%26chksm%3Dce124e1df965c70b06be48bc537bd628f3caf81e2837ebc2fbd0edddc6eb4f2b2c52e4d5c5d5%26token%3D531427802%26lang%3Dzh_CN%23rd)
+题目2：[Go Quiz: 从Go面试题看defer的注意事项第2篇](https://mp.weixin.qq.com/s?__biz=Mzg2MTcwNjc1Mg==&mid=2247483762&idx=1&sn=ca4235d28d513267aa082dc12cb37fda&chksm=ce124e1df965c70b06be48bc537bd628f3caf81e2837ebc2fbd0edddc6eb4f2b2c52e4d5c5d5&token=1073108956&lang=zh_CN#rd)
 
 
 
@@ -151,7 +151,7 @@ Go的规定是：如果在函数A里执行了 defer B(xx)，函数A显示地通�
 ## References
 
 * [Go Quiz: 从Go面试题看defer语义的底层原理和注意事项](https://mp.weixin.qq.com/s?__biz=Mzg2MTcwNjc1Mg==&mid=2247483756&idx=1&sn=d536fa3340e1d5f91d72eaa8b67c8123&chksm=ce124e03f965c715e26f5943948e17d8e0ebb3c4a3a180a149219a610f83fc6eb77b3b166b6a&token=531427802&lang=zh_CN#rd)
-* [Go Quiz: 从Go面试题看defer的注意事项第2篇](
+* [Go Quiz: 从Go面试题看defer的注意事项第2篇](https://mp.weixin.qq.com/s?__biz=Mzg2MTcwNjc1Mg==&mid=2247483762&idx=1&sn=ca4235d28d513267aa082dc12cb37fda&chksm=ce124e1df965c70b06be48bc537bd628f3caf81e2837ebc2fbd0edddc6eb4f2b2c52e4d5c5d5&token=1073108956&lang=zh_CN#rd)
 
 ![](/img/wechat.png)
 
