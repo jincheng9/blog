@@ -93,7 +93,9 @@ func main() {
 >The Go 1.18 compiler now correctly reports "declared but not used" errors
 >for variables that are set inside a function literal but are never used. Before Go 1.18,
 >the compiler did not report an error in such cases. This fixes long-outstanding compiler
->issue #8560. As a result of this change,
+>issue [#8560](https://github.com/golang/go/issues/8560). 
+>
+>As a result of this change,
 >(possibly incorrect) programs may not compile anymore. The necessary fix is
 >straightforward: fix the program if it was in fact incorrect, or use the offending
 >variable, for instance by assigning it to the blank identifier _.
