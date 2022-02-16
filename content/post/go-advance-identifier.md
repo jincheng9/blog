@@ -40,8 +40,6 @@ sequenceDiagrams:
 
 ---
 
-# Go语言中fmt.Println(true)的结果一定是true么？
-
 ##  背景
 
 [Honeycomb](https://www.honeycomb.io/)的首席开发布道者[Jessica](https://twitter.com/jessitron)在Twitter上发了一条状态：
