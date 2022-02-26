@@ -74,15 +74,15 @@ Hugo目前GitHub上star最多，我关注的几个技术博主基本都选用的
 3. blog目录下的文件内容如下：
 
    ```markdown
-   drwxr-xr-x   9 zhangjincheng  staff  288 12 21 14:46 .
-   drwxr-xr-x  17 zhangjincheng  staff  544 12 21 14:46 ..
-   drwxr-xr-x   3 zhangjincheng  staff   96 12 21 14:46 archetypes
-   -rw-r--r--   1 zhangjincheng  staff   82 12 21 14:46 config.toml
-   drwxr-xr-x   2 zhangjincheng  staff   64 12 21 14:46 content
-   drwxr-xr-x   2 zhangjincheng  staff   64 12 21 14:46 data
-   drwxr-xr-x   2 zhangjincheng  staff   64 12 21 14:46 layouts
-   drwxr-xr-x   2 zhangjincheng  staff   64 12 21 14:46 static
-   drwxr-xr-x   2 zhangjincheng  staff   64 12 21 14:46 themes
+   drwxr-xr-x   9 xxx  staff  288 12 21 14:46 .
+   drwxr-xr-x  17 xxx  staff  544 12 21 14:46 ..
+   drwxr-xr-x   3 xxx  staff   96 12 21 14:46 archetypes
+   -rw-r--r--   1 xxx  staff   82 12 21 14:46 config.toml
+   drwxr-xr-x   2 xxx  staff   64 12 21 14:46 content
+   drwxr-xr-x   2 xxx  staff   64 12 21 14:46 data
+   drwxr-xr-x   2 xxx  staff   64 12 21 14:46 layouts
+   drwxr-xr-x   2 xxx  staff   64 12 21 14:46 static
+   drwxr-xr-x   2 xxx  staff   64 12 21 14:46 themes
    ```
 
 ### even主题
@@ -176,7 +176,13 @@ Hugo目前GitHub上star最多，我关注的几个技术博主基本都选用的
 
 1. 安装utterances：点击[https://github.com/apps/utterances](https://github.com/apps/utterances)，按照提示操作，把上面存放博客的repo的权限给utterances。操作完成后，在username.github.io这个repo的Settings->Integrations里可以看到utterances。
 
-2. 修改博客的全局配置config.toml里已有的`params.utterances`配置项。
+2. 修改博客的全局配置config.toml里已有的`baseURL`和`params.utterances`这2个配置项。
+
+   `baseURL`为博客网站的域名，`params.utterances` 为GitHub的信息。
+
+   ```markdown
+   baseURL = "http://jincheng9.github.io/"
+   ```
 
    ```markdown
    [params.utterances]       # https://utteranc.es/
