@@ -3,9 +3,9 @@ title: "Go Quiz: 从Go面试题看slice的底层原理和注意事项"
 date: 2021-12-26T18:08:05+08:00
 lastmod: 2021-12-26T18:08:05+08:00
 draft: false
-keywords: [go, slice, principle, capacity grow]
+keywords: [go, quiz, slice, principle, capacity grow]
 description: "Go Quiz: 从Go面试题看slice的底层原理和注意事项"
-tags: [go, slice, 数据结构]
+tags: [go, quiz, slice, 数据结构]
 categories: [go]
 author: "jincheng9"
 

@@ -5,7 +5,7 @@ lastmod: 2021-12-27T19:11:12+08:00
 draft: false
 keywords: [go, channel, select, nil]
 description: "Go Quiz: 从Go面试题看channel的注意事项"
-tags: [go, channel, select, nil]
+tags: [go, quiz, channel, select, nil]
 categories: [go]
 author: "jincheng9"
 

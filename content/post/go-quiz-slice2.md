@@ -3,9 +3,9 @@ title: "Go Quiz: 从Go面试题搞懂slice range遍历的坑"
 date: 2022-01-22T16:16:10+08:00
 lastmod: 2022-01-22T16:16:10+08:00
 draft: false
-keywords: [go, slice, range, 面试题]
+keywords: [go, quiz, slice, range, 面试题]
 description: "Go Quiz: 从Go面试题搞懂slice range遍历的坑"
-tags: [go, slice, range, 面试题]
+tags: [go, quiz, slice, range, 面试题]
 categories: [go, 面试题]
 author: "jincheng9"
 
