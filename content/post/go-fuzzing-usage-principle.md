@@ -40,8 +40,6 @@ sequenceDiagrams:
 
 ---
 
-# Fuzzing: 一文读懂Go Fuzzing使用和原理
-
 ## 背景
 
 Go 1.18除了引入泛型(generics)这个重大设计之外，Go官方团队在Go 1.18工具链里还引入了fuzzing模糊测试。
