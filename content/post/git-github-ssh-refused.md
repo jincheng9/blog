@@ -95,7 +95,7 @@ provide shell access.` 就表示一切正常了。
 
 但是，这个方案在我这里行不通，修改后还是提示`ssh: connect to host github.com port 443: Connection refused`。
 
-**这个方案有效的前提是**：执行命令`ssh -T -p 443 git@github.com`后不再提示`connection refused`，所以要尝试这个方案的小伙伴先执行这条命令测试下。
+**这个方案有效的前提是**：执行命令`ssh -T -p 443 git@ssh.github.com`后不再提示`connection refused`，所以要尝试这个方案的小伙伴先执行这条命令测试下。
 
 
 
