@@ -144,7 +144,7 @@ ssh: connect to host github.com port 22: Connection refused
 
 到这里问题就很明确了，是DNS解析出问题了，导致github.com域名被解析成了localhost的ip地址，就自然连不上GitHub了。
 
-Windows下执行`ipconfig /flushdns` 清楚DNS缓存后也没用，最后修改hosts文件，增加一条github.com的域名映射搞定。
+Windows下执行`ipconfig /flushdns` 清除DNS缓存后也没用，最后修改hosts文件，增加一条github.com的域名映射搞定。
 
 ```bash
 140.82.113.4 github.com
