@@ -119,7 +119,7 @@ url = git@github.com:username/repo.git
 url = https://github.com/username/repo.git
 ```
 
-这个其实修改的是repo根目录下的`./git/config`文件。
+这个其实修改的是repo根目录下的`.git/config`文件。
 
 **但是这个方法在我这里同样不生效**。
 
