@@ -49,6 +49,10 @@ GitHub: [https://github.com/jincheng9](https://github.com/jincheng9)
 
 公众号：coding进阶
 
+## 咨询
+
+如果有关于互联网技术栈、量化交易技术栈、求职辅导、职业规划等问题可以在公众号留言进行咨询。
+
 ## 福利
 
 我为大家整理了一份后端开发学习资料礼包，包含编程语言入门到进阶知识(Go、C++、Python)、后端开发技术栈、面试题等。
