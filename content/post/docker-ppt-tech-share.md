@@ -48,6 +48,8 @@ sequenceDiagrams:
 
 更多Docker的精华解析是以口述形式分享给大家的，PPT大纲可以看做学习Docker的一个内容纲要。
 
+PPT下载地址：[docker-101-tutorial.pdf](https://github.com/jincheng9/disributed-system-notes/blob/main/docker/02/docker-101-tutorial.pdf)
+
 ![](https://files.mdnice.com/user/25936/33c28c11-6c41-48a1-bf76-aee172fd5138.png)
 ![](https://files.mdnice.com/user/25936/8f9f4e93-9eb8-467b-876e-1484586a811c.png)
 ![](https://files.mdnice.com/user/25936/5dac1680-cfbc-439a-befb-a870fed1db6d.png)
