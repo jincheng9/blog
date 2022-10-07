@@ -62,3 +62,7 @@ GitHub: [https://github.com/jincheng9](https://github.com/jincheng9)
 ## 微信公众号
 
 ![](/img/wechat.png)
+
+## 微信赞助
+
+![](/img/wechat-payment.png)
