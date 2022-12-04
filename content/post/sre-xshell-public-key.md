@@ -53,7 +53,7 @@ sequenceDiagrams:
 
 初次按照公钥认证来登录服务器的用户，可能发现每次登录服务器都要选择private key文件，不太方便。
 
-![](https://files.mdnice.com/user/25936/782b9472-9f45-4bb5-9cc1-7ed242cdaf62.png)
+![](/img/xshell-public-key-0.png)
 
 那怎么让Xshell记住你的私钥，不用每次登录服务器都要手动选择私钥文件呢？
 
@@ -61,23 +61,21 @@ sequenceDiagrams:
 ## 解决方案
 
 * 步骤1：在登录提示框里，用户秘钥这一栏，选择浏览->用户秘钥
-![](https://files.mdnice.com/user/25936/782b9472-9f45-4bb5-9cc1-7ed242cdaf62.png)
+![](/img/xshell-public-key-0.png)
 
 * 步骤2：在用户秘钥的弹窗里，选择导入秘钥。
 
-![](https://files.mdnice.com/user/25936/17c1f847-8d35-48cc-bb82-9e28ade64150.png)
+![](/img/xshell-public-key-1.png)
 
 * 步骤3：选中导入的秘钥，点击确定。
 
-![](https://files.mdnice.com/user/25936/654e4b4e-d33c-4277-893b-af5146cdb659.png)
+![](/img/xshell-public-key-2.png)
 
 * 步骤4：如果该秘钥生成的时候设置了密码，在用户秘钥框下面的密码框输入密码。
 
   如果该秘钥没有设置密码，就不用输入密码。最后，选择记住密码，点击确定即可。(这个记住密码是记住的用户秘钥的密码)
-
-![](https://files.mdnice.com/user/25936/77a31f49-0b82-4cf4-a5d6-1414de3afa0f.png)
-
-## 
+  
+  ![](/img/xshell-public-key-3.png) 
 
 ## 总结
 
