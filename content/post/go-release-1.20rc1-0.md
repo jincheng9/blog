@@ -196,6 +196,8 @@ false
 
 具体哪些类型是comparable type可以参考：[Comparable types](https://tip.golang.org/ref/spec#Comparison_operators) 里的说明。
 
+这个修改提案来源于：https://github.com/golang/go/issues/52614
+
 #### unsafe包
 
 Go 1.17版本在unsafe package里引入了Slice函数，如下所示：
@@ -280,6 +282,7 @@ GOARCH=riscv64
 ## References
 
 * https://tip.golang.org/doc/go1.20
+* https://sorcererxw.com/articles/go-comparable-type
 
 ![](/img/wechat.png)
 
