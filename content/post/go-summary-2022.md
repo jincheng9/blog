@@ -1,10 +1,10 @@
 ---
-title: "Go语言2023年开发者调研来了！文末附上精彩文章合集"
+title: "Go语言2023年开发者调研来了！文末附上2022年精彩文章合集"
 date: 2023-01-22T11:43:34+08:00
 lastmod: 2023-01-22T11:43:34+08:00
 draft: false
 keywords: [go]
-description: "Go语言2023年开发者调研来了！文末附上精彩文章合集"
+description: "Go语言2023年开发者调研来了！文末附上2022年精彩文章合集"
 tags: [go]
 categories: [go]
 author: "jincheng9"
@@ -62,7 +62,7 @@ Go团队的Alice Merrick在2023.01.18发布了2023年一月份开发者调研的
 * [Go开发常见错误和最佳实践系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2549657749539028992#wechat_redirect)
 * [Go泛型设计原理以及最佳实践系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2184751156453834753#wechat_redirect)
 * [Go工作区模式](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2339933847347544066#wechat_redirect)
-* [Go语言版本演进系列，读懂各个版本的演进历史](https://mp.weixin.qq.com/cgi-bin/appmsgalbummgr?action=edit&type=0&id=2549661543605764097&lasttab=-1&token=1782281328&lang=zh_CN)
+* [Go语言版本演进系列，读懂各个版本的演进历史](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2549661543605764097#wechat_redirect)
 
 ## 开源地址
 
