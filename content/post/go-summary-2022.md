@@ -58,15 +58,35 @@ Go团队的Alice Merrick在2023.01.18发布了2023年一月份开发者调研的
 
 ## 2022年精彩文章合集
 
-### 面试题系列
+* [Go语言面试题系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2199553588283179010#wechat_redirect)
+* [Go开发常见错误和最佳实践系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2549657749539028992#wechat_redirect)
+* [Go泛型设计原理以及最佳实践系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2184751156453834753#wechat_redirect)
+* [Go工作区模式](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MTcwNjc1Mg==&action=getalbum&album_id=2339933847347544066#wechat_redirect)
+* [Go语言版本演进系列，读懂各个版本的演进历史](https://mp.weixin.qq.com/cgi-bin/appmsgalbummgr?action=edit&type=0&id=2549661543605764097&lasttab=-1&token=1782281328&lang=zh_CN)
 
-### 常见错误和最佳实践
+## 开源地址
 
-### 泛型
+文章和示例代码开源在GitHub: [Go语言初级、中级和高级教程](https://github.com/jincheng9/go-tutorial)。
 
-### 工作区模式
+公众号：coding进阶。关注公众号可以获取最新Go面试题和技术栈。
 
-### Go语言版本演进
+个人网站：[Jincheng's Blog](https://jincheng9.github.io/)。
+
+知乎：[无忌](https://www.zhihu.com/people/thucuhkwuji)。
+
+
+
+## 福利
+
+我为大家整理了一份后端开发学习资料礼包，包含编程语言入门到进阶知识(Go、C++、Python)、后端开发技术栈、面试题等。
+
+关注公众号「coding进阶」，发送消息 **backend** 领取资料礼包，这份资料会不定期更新，加入我觉得有价值的资料。还可以发送消息「**进群**」，和同行一起交流学习，答疑解惑。
+
+
+
+## References
+
+* https://go.dev/blog/survey2023-q1
 
 
 
