@@ -48,9 +48,9 @@ Go团队的Alice Merrick在2023.01.18发布了2023年一月份开发者调研的
 
 从2022年开始，为了减轻大家填写问卷调查的负担以及更好地提升调研效果，调研频率从一年一次变为一年两次。
 
-开发者的调研反馈帮助改变了Go语言的生态。
+开发者的调研反馈改变了Go语言的生态。
 
-例如，Go语言的依赖管理(dependency management)、漏洞扫描(vulnerability scanning)和泛型(generics)等重要设计都来源于调研结果。
+例如，Go语言的依赖管理(dependency management)、漏洞扫描(vulnerability scanning)和泛型(generics)等重要设计都来源于调研反馈。
 
 本次线上调研地址为： [the January 2023 edition of the Go Developer Survey](https://google.qualtrics.com/jfe/form/SV_bNnbAtFZ0vfRTH8?s=b)。
 
