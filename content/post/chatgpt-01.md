@@ -259,7 +259,7 @@ ChatGPT: 你刚才说了 "你好"。
 
 ## 开源地址
 
-文章和示例代码开源在GitHub: [ChatGPT模型教程](https://github.com/jincheng9/gpt-tutorial)，包含ChatGPT和百度文心一言的入门和实战教程。
+想知道如何注册ChatGPT账号以及API使用教程的可以参考我的开源教程： [ChatGPT模型教程](https://github.com/jincheng9/gpt-tutorial)。包含ChatGPT和百度文心一言的入门和实战教程。
 
 公众号：coding进阶。
 
