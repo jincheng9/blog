@@ -249,7 +249,7 @@ ChatGPT: 你刚才说了 "你好"。
 
 ## 总结
 
-在[官网](https://chat.openai.com/chat)和ChatGPT对话的同学可能会发现，API返回的completion结果其实没有官网的好，
+在[官网](https://chat.openai.com/chat)和ChatGPT对话的同学可能会发现，API返回的completion结果其实没有官网的好。
 
 ![](/img/chatgpt01_0.png)
 
