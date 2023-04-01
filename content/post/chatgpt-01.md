@@ -96,15 +96,27 @@ print(completion.choices[0].message)
 
 * 要使用`openai.ChatCompletion`
 
-  openai这个库里封装了很多类
+  openai这个库里封装了很多类，如下所示：
+
+  > [openai.Completion](https://platform.openai.com/docs/api-reference/completions)
+  >
+  > [openai.ChatCompletion](https://platform.openai.com/docs/api-reference/chat)
+  >
+  > [openai.Edit](https://platform.openai.com/docs/api-reference/edits)
+  >
+  > [openai.Image](https://platform.openai.com/docs/api-reference/images)
+  >
+  > [openai.Embedding](https://platform.openai.com/docs/api-reference/embeddings)
+  >
+  > [openai.Audio](https://platform.openai.com/docs/api-reference/audio)
+  >
+  > [openai.FineTune](https://platform.openai.com/docs/api-reference/fine-tunes)
+  >
+  > [openai.Moderation](https://platform.openai.com/docs/api-reference/moderations)
+
+​	其中，`openai.ChatCompletion`用于对话。
 
 
-
-## 创建API Key
-
-https://platform.openai.com/account/api-keys
-
-## 
 
 
 
