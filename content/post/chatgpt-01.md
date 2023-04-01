@@ -149,7 +149,7 @@ openai.ChatCompletion.create(
 )
 ```
 
-上面这段代码里，就使用了3种角色的role，这个messages发送给ChatGPT后，ChatGPT就有了上下文，知道作为user的我们说了什么，也知道作为assistant的自己回答了什么。
+上面这段代码里，使用了3种角色的role，这个messages发送给ChatGPT后，ChatGPT就有了上下文，知道作为user的我们说了什么，也知道作为assistant的自己回答了什么。
 
 想通过API实现包含上下文信息的多轮对话的关键就是用好role字段。
 
@@ -233,13 +233,13 @@ ChatGPT: 你刚才说了 "你好"。
 
   > This model's maximum context length is 4097 tokens. However, you requested 4103 tokens (2066 in the messages, 2037 in the completion). Please reduce the length of the messages or completion.
 
-* 费用问题。API是按照token数量收费的，这个token计算是prompt和completion的token数量总和。由于后续的请求token数量越来越多，导致每次调用API的收费也越来越高。
+* 费用问题。API是按照token数量收费的，这个token计算是prompt和completion的token数量总和。由于后续的请求包含的token数量越来越多，导致每次调用API的收费也越来越高。
 
 那如何解决这个问题呢？
 
-* 第一种方式就是每次发送请求时，不用带上全部历史对话记录，只带上最近几轮对话的记录、比如就带上最近6条对话记录(3条prompt，3条completion)，减少单次请求里包含的token数量，避免超过ChatGPT模型的最大上下文长度。
+* 第一种方式就是每次发送请求时，不用带上全部历史对话记录，只带上最近几轮对话的记录。比如就带上最近6条对话记录(3条prompt，3条completion)，减少单次请求里包含的token数量，避免超过ChatGPT模型的最大上下文长度。
 
-* 第二种方式是在调用API的时候，限制用户提问内容长度，已经限制返回的completion的token数量。后者可以通过给API调用指定max_token参数来实现，该参数的含义如下：
+* 第二种方式是在调用API的时候，限制用户提问内容长度，以及限制返回的completion的token数量。后者可以通过给API调用指定max_token参数来实现，该参数的含义如下：
 
   > The maximum number of [tokens](https://platform.openai.com/tokenizer) to generate in the chat completion.
   >
