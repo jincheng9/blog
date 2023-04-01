@@ -233,7 +233,7 @@ ChatGPT: 你刚才说了 "你好"。
 
   > This model's maximum context length is 4097 tokens. However, you requested 4103 tokens (2066 in the messages, 2037 in the completion). Please reduce the length of the messages or completion.
 
-* 费用问题。API是按照token数量收费的，由于后续的请求token数量越来越多，导致每次调用API的收费也越来越高。
+* 费用问题。API是按照token数量收费的，这个token计算是prompt和completion的token数量总和。由于后续的请求token数量越来越多，导致每次调用API的收费也越来越高。
 
 那如何解决这个问题呢？
 
