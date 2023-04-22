@@ -62,9 +62,13 @@ OpenAI发布的ChatGPT火爆全球以来，全球互联网大厂陆续跟进，�
 | Vicuna     | UC Berkeley, CMU, Stanford, UCSD and MBZUAI | 130亿                                           | 70k条问答指令数据，指令数据来源于用户分享出来的对话记录 | 300美元                                                      |
 | Koala      | UC Berkeley                                 | 130亿                                           | 500k条问答直录功能数据，指令数据来源于网上公开数据集    | 在公共云计算平台上，预期训练成本不超过100美元。一台 Nvidia DGX 服务器与8个A100 GPU，需要6个小时训练完成2个epochs。 |
 | Dolly 2.0  | Databricks                                  | 120亿                                           | 15k条问答指令数据，指令数据来源于Databricks员工         | 不到30美元                                                   |
+| Bloom      | BigScience                                  | 1760亿                                          | 3660亿                                                  | 384 80GB A100 GPUs 训练3.5个月[数据来源](https://huggingface.co/blog/bloom-megatron-deepspeed) |
+| StableLM   | Stability AI                                | 30亿、70亿、150亿和300亿                        | 1.5万亿                                                 | 未公布                                                       |
 | ChatGLM    | 清华大学KEG 实验室和智谱AI                  | 60亿和1300亿共2种参数规模                       | 4000亿左右，中文和英文token各2000亿                     | 数百万人民币                                                 |
 | 鹏程·盘古α | 鹏程实验室、华为                            | 26亿、130亿和2000亿共3种参数规模                | 2500亿                                                  | 2048 块昇腾处理器                                            |
 | MOSS       | 复旦                                        | 160亿参数                                       | 约7000亿中英文                                          | 未公布。整体技术偏弱一些，暂时无法和ChatGLM相比。            |
+
+注：以上汇总表格会持续在GitHub上更新，感兴趣的可以通过文末的开源地址进行关注。
 
 开源模型有几个注意点：
 
