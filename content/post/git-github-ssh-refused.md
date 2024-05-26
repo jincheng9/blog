@@ -150,7 +150,7 @@ Windows下执行`ipconfig /flushdns` 清除DNS缓存后也没用，最后修改h
 140.82.113.4 github.com
 ```
 
-查找github.com的ip地址可以使用[https://www.ipaddress.com/](https://www.ipaddress.com/)来查询，也可以使用`nslookup`命令
+查找github.com的ip地址可以使用[https://dnschecker.org/](https://dnschecker.org/)来查询github.com在全球的ip地址，也可以使用`nslookup`命令
 
 ```bash
 nslookup github.com 8.8.8.8
