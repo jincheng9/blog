@@ -173,6 +173,14 @@ nslookup github.com
 
 
 
+## 最后大招
+
+如果你发现DNS解析并没有解析到127.0.0.1，但是执行ssh -vT git@github.com就是显示当前github.com解析的ip连接22端口和443端口失败，那就直接去https://dnschecker.org/找另外的可用ip。
+
+然后修改自己电脑上的DNS解析host文件，把github.com解析到新的ip，然后再测试。
+
+
+
 ## 开源地址
 
 文章和示例代码开源在GitHub: [Go语言初级、中级和高级教程](https://github.com/jincheng9/go-tutorial)。
